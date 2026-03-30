@@ -3,7 +3,7 @@ The dorado input files for each season "SC" and "FC" are too large for GitHub an
 Full citation: Wright, K. A., & Passalacqua, P. (2024). Delta-X: Calibrated ANUGA Hydrodynamic Outputs for the Atchafalaya Basin, MRD, LA (Version 1). 
 ORNL Distributed Active Archive Center. https://doi.org/10.3334/ORNLDAAC/2306 Date Accessed: 2026-03-30
 
-Note: You do not have to re-run `dorado_add_ROI.ipynb` to analyze the potential uptake results. The `dorado` results are already stored in the results/dorado_results folder.
+Note: You do not have to re-run `dorado_add_ROI.ipynb` to analyze the potential uptake results. The `dorado` results can be downloaded from Zenodo.
 
 If you want to re-run `dorado`, download the hydrodynamic results within their respective seasonal folders in order to run `dorado_add_ROI.ipynb`. You should place the downloaded netcdf files in the following structure:
 

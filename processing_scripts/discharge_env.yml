@@ -1,0 +1,13 @@
+name: discharge_transect
+channels:
+  - defaults
+dependencies:
+  - netcdf4
+  - xarray
+  - matplotlib
+  - anuga=3.1.9
+  - pip
+  - numpy=1.26
+  - pandas
+  - scipy
+  - python=3.10

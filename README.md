@@ -1,4 +1,4 @@
-# Increased Hydrological Connectivity Does Not Always Lead to Increased Nutrient Removal Potential - Case Study in a Coastal River Delta Code Base
+# Increased Hydrological Connectivity Does Not Always Lead to Increased Nutrient Removal Potential in a Coastal River Delta Code Base
 
 ## Overview
 This repository contains the code and data associated with the manuscript "Increased Hydrological Connectivity Does Not Always Lead to Increased Nutrient Removal Potential - Case Study in a Coastal River Delta". 

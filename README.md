@@ -3,7 +3,7 @@
 ## Overview
 This repository contains the code and data associated with the manuscript "Increased Hydrological Connectivity Does Not Always Lead to Increased Nutrient Removal Potential in a Coastal River Delta". 
 The codebase is primarily written in Python, saved as jupyter notebook processing scripts for ease of use/explanation, and it uses a variety of scientific computing libraries.
-The corresponding Zenodo for the large data files and output files published in the manuscript can be found here: 10.5281/zenodo.19337951.
+The corresponding Zenodo for the large data files and output files published in the manuscript can be found here: [10.5281/zenodo.19337951](https://doi.org/10.5281/zenodo.19337951).
 
 ## Organization
 The repository is structured simply, with three folders: input_data, processing_scripts, and results. Much of the input data needed is too large for GitHub, and will need to be downloaded from Zenodo separately. 
@@ -28,7 +28,7 @@ conda activate dorado_env
 
 ### 4. Download large data files
 Both the `ANUGA` hydrodynamic outputs required to run `dorado` and the consequential `dorado` results are too large for GitHub.
-Download them from Zenodo here: 10.5281/zenodo.19337951
+Download them from Zenodo here: [10.5281/zenodo.19337951](https://doi.org/10.5281/zenodo.19337951)
 Place them in the following structure:
 results/dorado_results/FC_baseline/FC_wd.pkl
 results/dorado_results/SC_baseline/SC_wd.pkl
@@ -41,7 +41,7 @@ results/dorado_results/SC_baseline/SC_wd.pkl
 
 ## Data Citations:
 The dorado input files for each season "SC" and "FC" are too large for GitHub and are archived on NASA EarthData at https://doi.org/10.3334/ORNLDAAC/2306 
-and are also archived with this manuscript in the accompanying Zenodo (10.5281/zenodo.19337951).
+and are also archived with this manuscript in the accompanying Zenodo [10.5281/zenodo.19337951](https://doi.org/10.5281/zenodo.19337951).
 
 Wright, K. A., & Passalacqua, P. (2024). Delta-X: Calibrated ANUGA Hydrodynamic Outputs for the Atchafalaya Basin, MRD, LA (Version 1). 
 ORNL Distributed Active Archive Center. https://doi.org/10.3334/ORNLDAAC/2306 Date Accessed: 2026-03-30

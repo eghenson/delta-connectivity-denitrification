@@ -1,0 +1,10 @@
+{
+  "scenario": "SC",
+  "season": "Spring",
+  "num_particles": 24000,
+  "diff_coeff": [
+    0.2
+  ],
+  "grid_size": 25,
+  "num_days": 9
+}

@@ -1,0 +1,8 @@
+# Large data files to exclude on GitHub
+*.nc
+*.pkl
+
+# Python artifacts
+__pycache__/
+*.pyc
+.ipynb_checkpoints/

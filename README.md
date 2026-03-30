@@ -1,7 +1,7 @@
 # Increased Hydrological Connectivity Does Not Always Lead to Increased Nutrient Removal Potential in a Coastal River Delta Code Base
 
 ## Overview
-This repository contains the code and data associated with the manuscript "Increased Hydrological Connectivity Does Not Always Lead to Increased Nutrient Removal Potential - Case Study in a Coastal River Delta". 
+This repository contains the code and data associated with the manuscript "Increased Hydrological Connectivity Does Not Always Lead to Increased Nutrient Removal Potential in a Coastal River Delta". 
 The codebase is primarily written in Python, saved as jupyter notebook processing scripts for ease of use/explanation, and it uses a variety of scientific computing libraries.
 The corresponding Zenodo for the large data files and output files published in the manuscript can be found here: 10.5281/zenodo.19337951.
 

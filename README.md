@@ -23,7 +23,7 @@ git checkout your-branch-name
 pip install -e .
 
 ### 3. Create and activate the conda environment
-conda env create -f dorado_env.yml
+conda env create -f `dorado_env.yml`
 conda activate dorado_env
 
 ### 4. Download large data files
